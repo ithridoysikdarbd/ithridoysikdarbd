@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ithridoysikdarbd" alt="ithridoysikdarbd" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3,JavaScript,jQuery,Bootstrap,PHP,MySQL,WordPress.**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP,MySQL, WordPress.**
 
 - 💬 Ask me about **Web Design,Web Development,WordPress Development,Web Application,Digital Marketing,SEO**
 
