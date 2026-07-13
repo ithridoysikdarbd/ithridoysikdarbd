@@ -1,3 +1,4 @@
+<img src="https://pbs.twimg.com/profile_banners/1640790796772470784/1783931782/1500x500">
 <h1 align="center">Hi 👋, I'm Hridoy Sikdar</h1>
 <h3 align="center">NSDA Certified Web Designer & Developer and Digital Marketer with a strong passion for building responsive websites and driving business growth through effective online marketing strategies.</h3>
 
