@@ -1,7 +1,10 @@
 <img src="https://pbs.twimg.com/profile_banners/1640790796772470784/1783931782/1500x500">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&width=435&lines=Professional+Web+Designer.;NSDA+certified+Web+Developer.;WordPress+Developer.;NSDA+certified+Digital+Marketer." alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&width=435&color=22C55E&lines=Professional+Web+Designer.;NSDA+Certified+Web+Developer.;WordPress+Developer.;NSDA+Certified+Digital+Marketer." 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
