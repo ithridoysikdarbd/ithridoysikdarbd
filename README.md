@@ -40,13 +40,9 @@
 Institute of Science & Technology (IST), Dhaka, Bangladesh  
 CGPA: 3.62
 
-
-
-
-
 <!-- 🌊 Premium Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0ea5e9&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0ea5e9&height=80&section=footer" />
 </p>
 
 
