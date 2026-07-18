@@ -8,6 +8,17 @@
 <h1 align="center">Hi 👋, I'm Hridoy Sikdar</h1>
 <h3 align="center">NSDA Certified Web Designer & Developer and Digital Marketer with a strong passion for building responsive websites and driving business growth through effective online marketing strategies.</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ithridoysikdarbd&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/ithridoysikdarbd?label=FOLLOWERS&style=for-the-badge&color=ff69b4" />
+  
+  <img src="https://img.shields.io/github/stars/ithridoysikdarbd?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=yellow" />
+  
+  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ithridoysikdarbd&label=Profile%20views&color=0e75b6&style=flat" alt="ithridoysikdarbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ithridoysikdarbd" alt="ithridoysikdarbd" /></a> </p>
