@@ -34,6 +34,30 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing](https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing)
 
+
+<!-- 🎓 Education Section (Premium Portfolio Style) -->
+
+<h2 align="center">🎓 Education</h2>
+
+<!-- 🎓 Degree -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Computer%20Science%20%26%20Engineering%20(CSE)%20%7C%20IST&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🏷️ Details -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Institute-Institute%20of%20Science%20%26%20Technology-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-3.62-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+<!-- 🌊 Premium Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0ea5e9&height=90&section=footer" />
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/hridoysikdar181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/hridoysikdar181" height="30" width="40" /></a>
