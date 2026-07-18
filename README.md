@@ -34,22 +34,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing](https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing)
 
+## 🎓 Education
 
-<!-- 🎓 Education Section (Premium Portfolio Style) -->
+**Computer Science and Engineering (CSE)**  
+Institute of Science & Technology (IST), Dhaka, Bangladesh  
+CGPA: 3.62
 
-<h2 align="center">🎓 Education</h2>
 
-<!-- 🎓 Degree -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Computer%20Science%20%26%20Engineering%20(CSE)%20%7C%20IST&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-</p>
 
-<!-- 🏷️ Details -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Institute-Institute%20of%20Science%20%26%20Technology-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-3.62-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white" />
-</p>
+
 
 <!-- 🌊 Premium Divider -->
 <p align="center">
