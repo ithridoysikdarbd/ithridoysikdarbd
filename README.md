@@ -1,5 +1,5 @@
 <img src="https://pbs.twimg.com/profile_banners/1640790796772470784/1783931782/1500x500">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Professiona+Web+Designer.;+NSDA+certified+Web+Developer.;+WordPress+Developer.;+NSDA+certified+Digital+Marketer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Professiona+Web+Designer.;+NSDA+certified+Web+Developer.;+WordPress+Developer.;+NSDA+certified+Digital+Marketer." alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Hridoy Sikdar</h1>
 <h3 align="center">NSDA Certified Web Designer & Developer and Digital Marketer with a strong passion for building responsive websites and driving business growth through effective online marketing strategies.</h3>
