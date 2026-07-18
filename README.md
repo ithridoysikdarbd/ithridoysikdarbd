@@ -33,7 +33,7 @@
 - 📫 How to reach me **it.hridoysikdar.bd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing](https://drive.google.com/file/d/1dGJylmGzBhBwMQQQxaanAxqZFOFkKv9j/view?usp=sharing)
-- <hr>
+ <hr>
 
 ## 🎓 Education
 
