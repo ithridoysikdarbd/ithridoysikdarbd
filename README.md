@@ -37,7 +37,7 @@
 
 ## 🎓 Education
 
-**Computer Science and Engineering (CSE)**  
+**B.sc in Computer Science and Engineering (CSE)**  
 Institute of Science & Technology (IST), Dhaka, Bangladesh  
 CGPA: 3.62
 
